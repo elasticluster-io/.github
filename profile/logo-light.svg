@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="96" viewBox="0 0 460 96" role="img" aria-labelledby="title desc">
+  <title id="title">ElastiCluster</title>
+  <desc id="desc">Horizontal ElastiCluster logo on light backgrounds.</desc>
+<g xmlns="http://www.w3.org/2000/svg" fill="#18181E" transform="translate(13 17.732) scale(0.931)">
+    <g data-brand-part="elasti">
+      <g data-glyph="E" data-x="0" transform="translate(0 0)" data-brand-part="initial" fill="#524CE3">
+        <path d="M29 7H50C56 7 59 9 59 13C59 17 56 19 51 19C40 19 35 15 29 15C21 15 17 20 17 32C17 44 21 49 29 49C35 49 40 45 51 45C56 45 59 47 59 51C59 55 56 57 50 57H29C12 57 5 47 5 32C5 17 12 7 29 7Z" />
+        <path d="M13 27H17C23 30 31 29 40 27C47 25 51 28 51 32C51 36 47 39 40 37C31 35 23 34 17 37H13Z" />
+      </g>
+      <g data-glyph="l" data-x="63" transform="translate(63 0)">
+        <path d="M4 8H8Q10 8 10 10V44Q10 49 15 49V54Q15 56 13 56H11Q2 56 2 46V10Q2 8 4 8Z" />
+      </g>
+      <g data-glyph="a" data-x="82" transform="translate(82 0)">
+        <path fill-rule="evenodd" d="M29 22H33Q35 22 35 24V54Q35 56 33 56H29Q27 56 27 54V52C24 55 20 57 15 57C5 57 0 50 0 39C0 28 5 21 15 21C20 21 24 23 27 26V24Q27 22 29 22ZM8 39C8 46 11 50 17 50C23 50 27 46 27 39C27 32 23 28 17 28C11 28 8 32 8 39Z" />
+      </g>
+      <g data-glyph="s" data-x="121" transform="translate(121 0)">
+        <path d="M30.2 24.7Q31.5 25.5 30.7 26.7L28.1 30.5Q27.4 31.6 26.4 30.8C23.5 28.3 20 27 15 27C10 27 8 29 8 32C8 34 11 35 17 36C27 38 32 40 32 47C32 54 25 58 15 58C8 58 3 55.5 0.7 52Q0 51 0.8 50L4.1 46Q5 44.8 6 46C9 49 12 51 16 51C22 51 24 49 24 47C24 44 21 43 15 42C5 40 0 38 0 31C0 24 7 20 15 20C22 20 27.5 22 30.2 24.7Z" />
+      </g>
+      <g data-glyph="t" data-x="157" transform="translate(157 0)">
+        <path d="M10 12H14Q16 12 16 14V22H26Q28 22 28 24V28Q28 30 26 30H16V44C16 48 18 50 22 50C24 50 26 49 28 48V53Q28 55 26 55.8C24 56.6 22 57 20 57C12 57 8 52 8 44V30H2Q0 30 0 28V24Q0 22 2 22H8V14Q8 12 10 12Z" />
+      </g>
+      <g data-glyph="i" data-x="190" transform="translate(190 0)">
+        <rect x="1" y="22" width="8" height="34" rx="2.5" />
+        <circle cx="5" cy="12" r="5" />
+      </g>
+    </g>
+    <g data-brand-part="cluster">
+      <g data-glyph="C" data-x="207" transform="translate(207 0)" fill="#524CE3">
+        <path d="M29 7H50C56 7 59 9 59 13C59 17 56 19 51 19C40 19 35 15 29 15C21 15 17 20 17 32C17 44 21 49 29 49C35 49 40 45 51 45C56 45 59 47 59 51C59 55 56 57 50 57H29C12 57 5 47 5 32C5 17 12 7 29 7Z" />
+      </g>
+      <g data-glyph="l" data-x="271" transform="translate(271 0)">
+        <path d="M4 8H8Q10 8 10 10V44Q10 49 15 49V54Q15 56 13 56H11Q2 56 2 46V10Q2 8 4 8Z" />
+      </g>
+      <g data-glyph="u" data-x="290" transform="translate(290 0)">
+        <path d="M2 22H6Q8 22 8 24V42C8 49 12 50 17 50C23 50 27 46 27 40V24Q27 22 29 22H33Q35 22 35 24V54Q35 56 33 56H29Q27 56 27 54V52C25 55 21 58 14 58C5 58 0 53 0 44V24Q0 22 2 22Z" />
+      </g>
+      <g data-glyph="s" data-x="329" transform="translate(329 0)">
+        <path d="M30.2 24.7Q31.5 25.5 30.7 26.7L28.1 30.5Q27.4 31.6 26.4 30.8C23.5 28.3 20 27 15 27C10 27 8 29 8 32C8 34 11 35 17 36C27 38 32 40 32 47C32 54 25 58 15 58C8 58 3 55.5 0.7 52Q0 51 0.8 50L4.1 46Q5 44.8 6 46C9 49 12 51 16 51C22 51 24 49 24 47C24 44 21 43 15 42C5 40 0 38 0 31C0 24 7 20 15 20C22 20 27.5 22 30.2 24.7Z" />
+      </g>
+      <g data-glyph="t" data-x="365" transform="translate(365 0)">
+        <path d="M10 12H14Q16 12 16 14V22H26Q28 22 28 24V28Q28 30 26 30H16V44C16 48 18 50 22 50C24 50 26 49 28 48V53Q28 55 26 55.8C24 56.6 22 57 20 57C12 57 8 52 8 44V30H2Q0 30 0 28V24Q0 22 2 22H8V14Q8 12 10 12Z" />
+      </g>
+      <g data-glyph="e" data-x="397" transform="translate(397 0)">
+        <path fill-rule="evenodd" d="M35 39V41Q35 43 33 43H8C9 49 13 51 18 51C23 51 26.5 49.2 29 46.7Q30 45.5 31 46.7L34 50Q35 51 34 52C30 56 25 58 18 58C7 58 0 50 0 39C0 28 7 20 18 20C29 20 35 27 35 39ZM8 36H27C26 30 24 27 18 27C12 27 9 30 8 36Z" />
+      </g>
+      <g data-glyph="r" data-x="437" transform="translate(437 0)">
+        <path d="M2 22H6Q8 22 8 24V28C11 23 16 20 22 20.8Q24 21 24 23V28Q24 30 22 29.7C14 29 8 33 8 42V54Q8 56 6 56H2Q0 56 0 54V24Q0 22 2 22Z" />
+      </g>
+    </g>
+  </g>
+
+</svg>
